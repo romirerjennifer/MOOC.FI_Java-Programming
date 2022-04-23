@@ -5,7 +5,7 @@ During this course, I learned the basics of computer programming, along with alg
 The recommended IDE was Netbeans
 
 ## Certificate
-I was able to complete this course on April 19th, 2022 with 99% accuracy 
+I was able to complete this course on April 19th, 2022 with 279/280 points 
 
 ## Takeaway
 
