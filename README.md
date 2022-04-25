@@ -15,7 +15,7 @@ The difference between mutable & inmutable Strings, Binary Search and Linear Sea
 
 ## Honorable mentions
 
-The following Projects feature a more complex, structured approach that sum of previous parts.
+The following projects feature a more complex, structured approach that sum up previous parts in the MOOC.fi program.
 
 Part 07
 * Part07_07 RecipeSearch 
