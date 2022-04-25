@@ -12,3 +12,11 @@ I was able to complete this course on April 19th, 2022 with 279/280 points
 During this course I extented my knowledge on object orientated programming. 
 
 The difference between mutable & inmutable Strings, Binary Search and Linear Search Algorithms, Reading and working with files as input, Test Driven Development, as well as Lean Coding and a proper Code Design were topics that I worked with in this course. 
+
+## Honorable mentions
+
+The following Projects feature a more complex, structured approach that sum of previous parts.
+
+Part 07
+* Part07_07 RecipeSearch 
+* Part07_08 Big Year 
