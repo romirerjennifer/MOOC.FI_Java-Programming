@@ -17,6 +17,10 @@ The difference between mutable & inmutable Strings, Binary Search and Linear Sea
 
 The following projects feature a more complex, structured approach that sum up previous parts in the MOOC.fi program.
 
-Part 07
+### Part 07
 * Part07_07 RecipeSearch 
 * Part07_08 Big Year 
+
+### Part 13 and Part 14
+These use deprecated libraries and were therefor not on my topmost index of my priority list.
+As the course itself is deprecated it is understandable that these libraries were selected.
