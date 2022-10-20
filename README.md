@@ -6,7 +6,7 @@ The recommended IDE was Netbeans
 
 ## Certificate
 I was able to complete part one of this course on April 19th, 2022 with 279/280 points.
-Part two of this course was completed on October 20th, 2022 with /275 points
+Part two of this course was completed on October 20th, 2022 with 231/275 points, as the remaining 44 points were part of the osa00 part that i was not able to find. However all excercises and quizzes were completed.
 
 ## Takeaway
 
